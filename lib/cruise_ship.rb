@@ -13,3 +13,5 @@ def select_winner(passengers)
       winner = room
   end
 end
+winner
+end
